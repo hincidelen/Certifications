@@ -4,14 +4,15 @@
 ##### From <https://github.com/Evalle/DCA> 
 ##### [Official study guide](https://success.docker.com/certification?revision=1)
 
-
-* Orchestration 	(25% of exam)	16 title
-* Image Creation, Management, and Registry 	(20% of exam)	25 title
-* Installation and Configuration 	(15% of exam)	13 title
-* Networking 	(15% of exam)	11 title
-* Security 	(15% of exam)	12 title
-* Storage and Volumes 	(10% of exam)	7 title
-		= 84 title
+Section | Percentage | # of title 
+--- | --- | --- 
+Orchestration | 25% of exam) | title
+Image Creation, Management, and Registry | (20% of exam) | 25 title
+Installation and Configuration | (15% of exam | 13 title
+Networking | (15% of exam) | 11 title
+Security | (15% of exam | 12 title
+Storage and Volumes | (10% of exam) | 7 title
+   |   |   | 84 title
 
 ------------------------------------------------------------
 
