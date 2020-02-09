@@ -6,7 +6,7 @@
 
 Section | Percentage | # of title 
 --- | --- | --- 
-Orchestration | 25% of exam) | title
+Orchestration | 25% of exam) | 16 title
 Image Creation, Management, and Registry | (20% of exam) | 25 title
 Installation and Configuration | (15% of exam | 13 title
 Networking | (15% of exam) | 11 title
